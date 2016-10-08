@@ -1,5 +1,5 @@
 {
-	"name": "albertofem/kanjidic2-lib",
+	"name": "ninja-saigon/kanjidic2-lib",
 	"description": "PHP library to work with KANJIDIC2 kanji database",
 	"keywords": ["afm", "kanjidic", "kanjidic2", "kanjidic-parser"],
 	"license": "MIT",
